@@ -1,1 +1,1 @@
-# aws-terraform-alarms
+# terraform-aws-alarms
