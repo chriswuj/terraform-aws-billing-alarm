@@ -1,7 +1,7 @@
 module "billing_alert" {
   source = "billtrust/billing-alarm/aws"
   aws_env = "prod"
-  monthly_billing_threshold = 10
+  monthly_billing_threshold = 11
 }
 
 output "sns_topic" {
